@@ -17,14 +17,14 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Gu-JAVA" height="50" width="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Gu-KOTLIN" height="50" width="40" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="Hen-CSHARP" height="50" width="40" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img align="center" alt="Hen-FIREBASE" height="50" width="40" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-  <img align="center" alt="Hen-ANDROIDSTUDIO"  height="50" width="40" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
-  <img align="center" alt="Hen-SQL"  height="50" width="40" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img align="center" alt="Hen-MYSQL"  height="50" width="40" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Hen-SQLITE"  height="50" width="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Gu-JAVA" height="50" width="70" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Gu-KOTLIN" height="50" width="70" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt="Hen-CSHARP" height="50" width="70" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img align="center" alt="Hen-FIREBASE" height="50" width="70" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img align="center" alt="Hen-ANDROIDSTUDIO"  height="50" width="70" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+  <img align="center" alt="Hen-SQL"  height="50" width="70" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img align="center" alt="Hen-MYSQL"  height="50" width="70" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Hen-SQLITE"  height="50" width="70" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 
 </div>
 
